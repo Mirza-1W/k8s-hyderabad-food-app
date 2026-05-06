@@ -1,0 +1,6 @@
+*secret*
+*password*
+*.env
+*.key
+*.pem
+.kube/
